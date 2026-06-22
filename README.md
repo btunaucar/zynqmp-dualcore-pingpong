@@ -22,13 +22,7 @@ Core 0 (A53 #0)          Shared Memory           Core 1 (A53 #1)
 ```
 
 **UART output (115200 baud):**
-```
-Ping!
-Pong!
-Ping!
-Pong!
-...
-```
+
 ![Demo](demo.gif)
 
 ## Hardware
